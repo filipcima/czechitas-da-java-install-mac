@@ -1,7 +1,7 @@
 # DA Java - instalační skript pro macOS
 
 ## Popis
-Skript, který stáhne potřebný software pro účast na digitální akademii JAVA (vytvořeno pro Ostravu).
+Skript (vyžaduje administrátorská práva), který stáhne potřebný software pro účast na digitální akademii JAVA (vytvořeno pro Ostravu).
 Většina SW se stahuje z Dropboxu, takže časem bude skript neaktuální. Pro celý rok 2018 ovšem dostačující.
 
 Stáhne se:
