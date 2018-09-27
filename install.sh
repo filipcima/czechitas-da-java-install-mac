@@ -1,7 +1,7 @@
-if brew ls --versions myformula > /dev/null; then
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+if brew ls > /dev/null; then
   brew install wget
 else
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   brew install wget
 fi
 
