@@ -16,8 +16,16 @@ Stáhne se:
 3) nainstalovat balíčky MySQL Server, MySQL Workbench, Eclipse, JDK 1.8
 
 ## Spuštění
-``` shell
-git clone https://github.com/filipcima/czechitas-da-java-install-mac.git
-cd czechitas-da-java-install-mac
-./install.sh
-```
+1) Spusťte terminal a změňte adresář na ten, kde chcete, aby byly instalační soubory.
+
+2) Vyklonujte repozitář:
+
+`git clone https://github.com/filipcima/czechitas-da-java-install-mac.git`
+
+3) Změňte adresář na:
+
+`cd czechitas-da-java-install-mac`
+
+4) Pusťte skript:
+
+`./install.sh`
