@@ -18,14 +18,8 @@ Stáhne se:
 ## Spuštění
 1) Spusťte terminal a změňte adresář na ten, kde chcete, aby byly instalační soubory.
 
-2) Vyklonujte repozitář:
+2) Vyklonujte repozitář: `git clone https://github.com/filipcima/czechitas-da-java-install-mac.git`
 
-`git clone https://github.com/filipcima/czechitas-da-java-install-mac.git`
+3) Změňte adresář: `cd czechitas-da-java-install-mac`
 
-3) Změňte adresář na:
-
-`cd czechitas-da-java-install-mac`
-
-4) Pusťte skript:
-
-`./install.sh`
+4) Pusťte skript: `./install.sh`
